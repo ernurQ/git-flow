@@ -55,7 +55,7 @@ git checkout -b master-25
 ```
 
 ```sh
-git cherry-pick 
+git cherry-pick
 ```
 
 ```sh
