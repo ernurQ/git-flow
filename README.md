@@ -29,7 +29,7 @@ git pull origin release
 ```
 
 ```sh
-git log dev --oneline -1 | cat
+git log dev --oneline -1
 ```
 
 ```sh
